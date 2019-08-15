@@ -25,4 +25,4 @@ Add this line to .tmux.conf:
 
 License
 
-MIT
+[MIT](https://github.com/fxg42/tmux-resurrect-ext/blob/master/LICENSE)

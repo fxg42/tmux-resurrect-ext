@@ -5,7 +5,7 @@ Status line extensions for tmux-resurrect and tmux-continuum
 ## Features
 
 - `#{resurrect_last}` placeholder for the status line. Displays the
-  humanized relative date of the last save
+  humanized relative date of the last save (e.g. "18 minutes ago").
 
 ## Dependencies
 

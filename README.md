@@ -23,6 +23,6 @@ Add this line to .tmux.conf:
 
     run-shell ~/clone/path/resurrect-ext.tmux
 
-License
+## License
 
 [MIT](https://github.com/fxg42/tmux-resurrect-ext/blob/master/LICENSE)

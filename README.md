@@ -21,7 +21,7 @@ Clone the repo:
 
 Add this line to .tmux.conf:
 
-    run-shell ~/clone/path/resurrect_ext.tmux
+    run-shell ~/clone/path/resurrect-ext.tmux
 
 License
 
